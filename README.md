@@ -7,7 +7,7 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
 ## 📸 Screenshots
  
 > Example:  
-> ![Home Page](/frontend/public/task-manager.png)  
+> ![Home Page](/Frontend/public/task-manager.png)  
 > ![Product Page](/frontend/public/product.png)
 
 ---

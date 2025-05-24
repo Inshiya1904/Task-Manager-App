@@ -1,4 +1,4 @@
-# 🛒 MERN Stack E-commerce Website
+ # 🚀 Task Manager Tool (MERN Stack)
 
 An E-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring user authentication, product listings, cart functionality, order management, and admin controls.
 
@@ -7,7 +7,7 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
 ## 📸 Screenshots
  
 > Example:  
-> ![Home Page](/frontend/public/home.png)  
+> ![Home Page](/frontend/public/task-manager.png)  
 > ![Product Page](/frontend/public/product.png)
 
 ---

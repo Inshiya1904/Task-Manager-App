@@ -1,6 +1,6 @@
  # 🚀 Task Manager Tool (MERN Stack)
 
-An E-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring user authentication, product listings, cart functionality, order management, and admin controls.
+A full-featured task management web application built using the **MERN stack** (MongoDB, Express.js, React, Node.js). This app allows users to register, log in, and manage multiple tasks with full **CRUD (Create, Read, Update, Delete)** functionality. It's designed to boost productivity and keep work organized in one central dashboard.
 
 ---
 
@@ -8,13 +8,13 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
  
 > Example:  
 > ![Home Page](/Frontend/public/task-manager.png)  
-> ![Product Page](/frontend/public/product.png)
+
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [View Deployed Site](https://foreverbuy.in)
+👉 [View Deployed Site](https://taskflow-frontend-6swl.onrender.com)
 
 ---
 
@@ -24,21 +24,18 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB Atlas
 - **Authentication**: JWT, bcryptjs
-- **Payment Integration**: Stripe / Razorpay (Optional)
-- **Deployment**: Render (Backend) + Vercel/Netlify (Frontend)
+- **Deployment**: Render (Backend) + Render (Frontend)
 
 ---
 
 ## 📦 Features
 
-- ✅ User Registration & Login
-- ✅ Admin Dashboard
-- ✅ Product Listing 
-- ✅ Product Categories & Filtering
-- ✅ Shopping Cart
-- ✅ Checkout & Order Summary
-- ✅ Order History
-- ✅ Responsive Design
+- 🔐 User authentication with JWT
+- 🗂️ Create and manage task per user
+- ✅ Full CRUD for tasks (title, description, status)
+- 📊 Task status tracking
+- 🧩 RESTful API structure
+- 💻 Responsive and modern UI with React
 
 ---
 
